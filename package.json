@@ -1,0 +1,23 @@
+{
+  "name": "reg-bot",
+  "version": "1.0.0",
+  "description": "Registration bot for school discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylek44/reg-bot.git"
+  },
+  "author": "Kyle Kelly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylek44/reg-bot/issues"
+  },
+  "homepage": "https://github.com/kylek44/reg-bot#readme",
+  "dependencies": {
+    "cron": "^1.7.2",
+    "discord.js": "^11.5.1"
+  }
+}
